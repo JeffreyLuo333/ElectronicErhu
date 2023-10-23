@@ -1,6 +1,5 @@
 # Electronic Erhu
-<img src="images/FrontView.jpg" width="150" height="150"> 
-<img src="images/BackView.jpg" width="150" height="150">
+<img src="images/FrontView.jpg" width="400" height="300"> <img src="images/BackView.jpg" width="400" height="300">
 
 How can a machine replicate the nuances and emotions of human music performance, rather than merely producing standardized sounds devoid of personal touch? Furthermore, how can these machines be designed to harmoniously accompany live human performers? As I embark on this journey, my initial endeavor is to create a machine performer—an electronic string instrument that fuses human touch with control. This foundation will then be enriched with machine intelligence in my subsequent project.
 
