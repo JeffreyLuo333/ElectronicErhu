@@ -53,4 +53,9 @@ __Click the image to see the demo.__
   <img src="images/Demo.jpg" width="400" height="300" alt="Link to External Content">
 </a>
 
+<audio controls>
+  <source src="audio/Test1.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+
 
