@@ -49,8 +49,5 @@ To connect your electronic erhu, open the GarageBand app on your mobile phone, t
 
 <img src="images/Demo.jpg" width="400" height="400">
 
-<video width="640" height="360" controls>
-  <source src="videos/Flute1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="560" height="315" src="https://youtu.be/mUIGGwYw0Xs" frameborder="0" allowfullscreen></iframe>
 
