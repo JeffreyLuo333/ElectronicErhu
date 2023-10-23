@@ -49,5 +49,5 @@ To connect your electronic erhu, open the GarageBand app on your mobile phone, t
 
 <img src="images/Demo.jpg" width="400" height="400">
 
-[![Video Title]([https://img.youtube.com/vi/your-video-id/0.jpg](https://i9.ytimg.com/vi/Vd-1fMAqllk/mqdefault.jpg?v=65242be5&sqp=CMy_2KkG&rs=AOn4CLAbug-DPOZHaLRdbIZfCcbaGKbrAA)https://i9.ytimg.com/vi/Vd-1fMAqllk/mqdefault.jpg?v=65242be5&sqp=CMy_2KkG&rs=AOn4CLAbug-DPOZHaLRdbIZfCcbaGKbrAA)](https://youtu.be/mUIGGwYw0Xs)
+[![Video Demo]([https://i9.ytimg.com/vi/Vd-1fMAqllk/mqdefault.jpg?v=65242be5&sqp=CMy_2KkG&rs=AOn4CLAbug-DPOZHaLRdbIZfCcbaGKbrAA)https://i9.ytimg.com/vi/Vd-1fMAqllk/mqdefault.jpg?v=65242be5&sqp=CMy_2KkG&rs=AOn4CLAbug-DPOZHaLRdbIZfCcbaGKbrAA])(https://youtu.be/mUIGGwYw0Xs)
 
