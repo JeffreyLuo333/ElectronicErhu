@@ -1,6 +1,6 @@
 # Electronic Erhu
-<img src="images/FrontView.jpg" width="400" height="300">
-<img src="images/BackView.jpg" width="400" height="300">
+<img src="images/FrontView.jpg" width="200" height="150">
+<img src="images/BackView.jpg" width="200" height="150">
 
 How can a machine replicate the nuances and emotions of human music performance, rather than merely producing standardized sounds devoid of personal touch? Furthermore, how can these machines be designed to harmoniously accompany live human performers? As I embark on this journey, my initial endeavor is to create a machine performer—an electronic string instrument that fuses human touch with control. This foundation will then be enriched with machine intelligence in my subsequent project.
 
@@ -21,8 +21,8 @@ This section contains my learning summary.
 This project entails crafting an electronic erhu utilizing the ESP32 module, enabling it to establish a Bluetooth connection with the "GarageBand" app on an iPhone to produce music.
 The main control module uses ESP32, and its core components are 16 mechanical keyboard keys and an EC11 encoder.
 
-<img src="images/SystemView1.png" width="500" height="300">
-<img src="images/SystemView0.png" width="500" height="300">
+<img src="images/SystemView1.png" width="300" height="300">
+<img src="images/SystemView0.png" width="300" height="300">
 
 Here are the links for additional resources and learning materials:
 - [MCP ESP32](https://www.espressif.com/en/products/socs/esp32)
@@ -55,7 +55,4 @@ To connect your electronic erhu, open the GarageBand app on your mobile phone, t
   <source src="videos/Flute1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
-
-## TEST
 
