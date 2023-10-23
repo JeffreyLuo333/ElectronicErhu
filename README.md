@@ -47,16 +47,10 @@ The [Original Software Source Code](https://github.com/ospanic/eerhu) can be fou
 ### Integration:
 To connect your electronic erhu, open the GarageBand app on your mobile phone, then tap on "Settings" -> "Advanced" -> "Bluetooth MIDI Devices." With a little practice, I hope you'll soon find joy in playing.
 
-__Click the image to see the demo.__
-
+__Demo__
 
 https://github.com/JeffreyLuo333/ElectronicErhu/assets/114297879/25f6e448-bfd4-4e25-8fe4-0fe2548f549f
 
-
-
-<a href="https://youtu.be/mUIGGwYw0Xs">
-  <img src="images/Demo.jpg" width="400" height="300" alt="Link to External Content">
-</a>
 
 [Listen to my audio](https://soundcloud.com/yourusername/your-audio)
 
