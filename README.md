@@ -20,8 +20,7 @@ This section contains my learning summary.
 This project entails crafting an electronic erhu utilizing the ESP32 module, enabling it to establish a Bluetooth connection with the "GarageBand" app on an iPhone to produce music.
 The main control module uses ESP32, and its core components are 16 mechanical keyboard keys and an EC11 encoder.
 
-<img src="images/SystemView1.png" width="300" height="300">
-<img src="images/SystemView0.png" width="300" height="300">
+<img src="images/SystemView1.png" width="400" height="300"> <img src="images/SystemView0.png" width="400" height="300">
 
 Here are the links for additional resources and learning materials:
 - [MCP ESP32](https://www.espressif.com/en/products/socs/esp32)
