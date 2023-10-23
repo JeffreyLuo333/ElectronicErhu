@@ -51,9 +51,6 @@ __Demo__
 
 https://github.com/JeffreyLuo333/ElectronicErhu/assets/114297879/25f6e448-bfd4-4e25-8fe4-0fe2548f549f
 
-https://github.com/JeffreyLuo333/ElectronicErhu/blob/main/videos/Flute1.mp4
-
-
 [Listen to my audio](https://soundcloud.com/yourusername/your-audio)
 
 
