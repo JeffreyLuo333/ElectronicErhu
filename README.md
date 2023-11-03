@@ -49,7 +49,7 @@ To connect your electronic erhu, open the GarageBand app on your mobile phone, t
 
 __Demo__
 
-https://github.com/JeffreyLuo333/ElectronicErhu/assets/114297879/dcf734d1-bfc2-4429-85f6-99ba6d782901
+https://github.com/JeffreyLuo333/ElectronicErhu/assets/114297879/c262f2a7-2b90-4fbd-84d1-cd86bc75b108
 
 
 
