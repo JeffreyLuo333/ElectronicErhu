@@ -26,6 +26,7 @@ The main control module uses ESP32, and its core components are 16 mechanical ke
 <img src="images/SystemView1.png" width="400" height="300"> <img src="images/SystemView0.png" width="400" height="300">
 
 ### Circuit design diagrams
+<img src="images/Circuit_design_diagram.png" width="800" height="600"> 
 
 ESP32-S
 
