@@ -84,6 +84,7 @@ https://github.com/JeffreyLuo333/ElectronicErhu/assets/114297879/c262f2a7-2b90-4
 
 ## 5. Sequel - electronic pipe instrument
 
+<img src="images/eda_pipe_back.png" width="500" height="300"> <img src="images/eda_pipe_front.png" width="500" height="300">
 
 ## 6. Additional resources
 Here are the links for additional materials:
