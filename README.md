@@ -46,9 +46,11 @@ Below are PCB schematics for the top and bottom PCBs respectively.
 <img src="images/EDA_TOP_2D.png" width="400" height="300"> <img src="images/EDA_TOP_3D.png" width="400" height="300">
 
 ### 3.3 Bill of Materials (BOM)
+
 <img src="images/BOM.png" width="600" height="300"> 
 
 All the components can be placed on a piece of paper.
+
 <img src="images/BOM_full_picture.jpg" width="600" height="300"> 
 
 ### 3.3 Soldering process
