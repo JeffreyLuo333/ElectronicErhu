@@ -54,7 +54,9 @@ All the components can be placed on a piece of paper.
 <img src="images/BOM_full_picture.jpg" width="600" height="300"> 
 
 ### 3.3 Soldering process
-Soldering is no easy task. It took us weeks to practice and finally become skilled at doing it. Soldering components are prettry much the same. Below, we will just show the images and a video for component 11, part # MSS22D18G2, since it is more complicated.
+Soldering is no easy task. It took us weeks to practice and finally become skilled at doing it. Soldering components are prettry much the same. Below, we will just show the images and a video for component 8, the resistors, since they are very tiny.
+
+<img src="images/component8_before.jpg" width="400" height="300"> <img src="images/component8_after.png" width="400" height="300"> 
 
 Soldering component 16, the microprocessor, can be a bit challenging due to the many tiny pins densly spaced. You may find it helpful to use a microscope to ensure precise soldering.
 
