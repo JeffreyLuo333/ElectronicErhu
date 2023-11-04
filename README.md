@@ -42,8 +42,8 @@ Below is the circuit diagram for the electronic Erhu.
 
 Below are PCB schematics for the top and bottom PCBs respectively.
 
-<img src="images/EDA_BOTTOM_2D.png" width="400" height="300"> <img src="images/EDA_BOTTOM_3D.png" width="400" height="300">
-<img src="images/EDA_TOP_2D.png" width="400" height="300"> <img src="images/EDA_TOP_3D.png" width="400" height="300">
+<img src="images/EDA_BOTTOM_2D.png" width="500" height="300"> <img src="images/EDA_BOTTOM_3D.png" width="500" height="300">
+<img src="images/EDA_TOP_2D.png" width="500" height="300"> <img src="images/EDA_TOP_3D.png" width="500" height="300">
 
 ### 3.3 Bill of Materials (BOM)
 
