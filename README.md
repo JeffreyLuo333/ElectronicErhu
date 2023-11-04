@@ -54,22 +54,24 @@ All the components can be placed on a piece of paper.
 <img src="images/BOM_full_picture.jpg" width="600" height="300"> 
 
 ### 3.3 Soldering process
-Soldering is no easy task. It took us weeks to practice and finally become skilled at doing it. Soldering components are prettry much the same. Below, we will just show the images and a video for the component since it is more complicated.
+Soldering is no easy task. It took us weeks to practice and finally become skilled at doing it. Soldering components are prettry much the same. Below, we will just show the images and a video for component 11, part # MSS22D18G2, since it is more complicated.
 
-Soldering Component 16, the microprocessor, can be a bit challenging due to the many tiny pins densly spaced. You may find it helpful to use a microscope to ensure precise soldering.
+Soldering component 16, the microprocessor, can be a bit challenging due to the many tiny pins densly spaced. You may find it helpful to use a microscope to ensure precise soldering.
 
-<img src="images/Component16.jpg" width="200" height="200"> <img src="images/ScopeView.jpg" width="200" height="200">
+<img src="images/Component16.jpg" width="200" height="200"> <img src="images/component16_on_PCB.jpg" width="200" height="200"> <img src="images/ScopeView.jpg" width="200" height="200">
 
 It's worth mentioning that a standard encoder produces a clicking sound and vibrations when rotated. To resolve this matter, the encoder needs to be disassembled using appropriate tools, and its components should be removed one by one. Locate the innermost spring piece and use tweezers to depress these two spring components. Subsequently, reassemble all the components in the correct sequence and seal the encoder. Removing this spring enhances the encoder's rotational smoothness.
 
-### 3.4 Firmware:
+### 3.4 Firmware
 The [Original Software Source Code](https://github.com/ospanic/eerhu) can be found at: https://github.com/ospanic/eerhu. I have also cloned it to the "eerhu" folder. 
 
 Additionally, Eerhu_V0.1.bin is a precompiled target image that can be downloaded to the target board using the [ESP32 Download Tool](https://www.espressif.com/en/support/download/other-tools?keys=&field_type_tid%5B%5D=13).
 <img src="images/Download.png" width="400" height="300">
 
-### 3.5 Integration:
-To connect your electronic erhu, open the GarageBand app on your mobile phone, then tap on "Settings" -> "Advanced" -> "Bluetooth MIDI Devices." With a little practice, I hope you'll soon find joy in playing.
+### 3.5 Integration
+To connect your electronic erhu, open the GarageBand app on your mobile phone, then tap on "Settings" -> "Advanced" -> "Bluetooth MIDI Devices." 
+
+With a little practice, I hope you'll soon find joy in playing the e-Erhu.
 
 ## 4. Demo
 
