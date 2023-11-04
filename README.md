@@ -36,7 +36,7 @@ Nevertheless, there are alternative free online tools available that offer great
 
 You are free to select components according to your personal preferences. We will supply you with a Bill of Materials (BOM) and detailed part numbers for each component below. Should you prefer to utilize your own preferred tools for design and procurement, you are completely at liberty to source the components from alternative vendors, guided by the provided BOM list.
 
-Below is the circuit diagram for the electronic Erhu. 
+Below is the circuit diagram for the electronic Erhu, modified based on the original diagram with the older version of microprocessor. 
 
 <img src="images/Circuit_design_diagram.png" width="800" height="450"> 
 
