@@ -31,7 +31,7 @@ The EDA software we've selected, [LC EDA](https://lceda.cn/), is an online platf
 
 Nevertheless, there are alternative free online tools available that offer greater ease of use for English-speaking users, such as 
 - [Circuit Diagram](https://www.circuit-diagram.org/)
-- [Samrt Draw](https://www.smartdraw.com/circuit-diagram/circuit-diagram-maker.htm)
+- [Smart Draw](https://www.smartdraw.com/circuit-diagram/circuit-diagram-maker.htm)
 - [Lucid Chart](https://www.lucidchart.com/pages/examples/circuit-diagram-maker)
 
 You are free to select components according to your personal preferences. We will supply you with a Bill of Materials (BOM) and detailed part numbers for each component below. Should you prefer to utilize your own preferred tools for design and procurement, you are completely at liberty to source the components from alternative vendors, guided by the provided BOM list.
