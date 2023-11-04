@@ -1,14 +1,14 @@
 # Electronic Erhu
 <img src="images/FrontView.jpg" width="400" height="300"> <img src="images/BackView.jpg" width="400" height="300">
 
-## Project Context
+## Project context
 How can a machine emulate the nuances and emotions of human performance, instead of yielding uniform sounds that lack a personal touch? Furthermore, what design principles should govern these machines to ensure they accompany human musicians seamlessly and harmoniously on stage? Our exploratory journey of creating a human-machine orchestra begins with a foundational step: crafting an electronic instrument that is programmable so that it is capable of nuanced performance. This instrument will lay the groundwork for future exploration into advanced autonomous control within our forthcoming projects.
 
 This ultimate goal is not just about technical synchronization but capturing the essence of musical empathy, enabling a seamless and emotive interplay between silicon and soul.
 
 This repository contains files and guidelines associated with this project. Please feel free to utilize them.
 
-## Project Objective
+## Project objective
 We've built an electronic version of the Chinese string instrument Erhu which utilizes a __physical bow__ as an input mechanism. This device produces MIDI signals as its output. These signals are then transmitted wirelessly using Bluetooth to a Digital Audio Workstation (DAW) for further editing, mixing, and synthesis.
 
 The physical bow control lays the foundation for robotic arm manipulation, setting the stage for an investigation into how autonomous musical machines can observe and assimilate the nuances of human performers, encompassing both their physical movements and emotional expressions. This venture seeks to transcend mere technical precision, infusing machine performance with a personalized touch.
@@ -20,8 +20,7 @@ This project is inspried by a [DIY e-Erhu project](https://www.bilibili.com/read
 
 ### Architecture
 
-This project entails crafting an electronic erhu utilizing the ESP32 module, enabling it to establish a Bluetooth connection with the "GarageBand" app on an iPhone to produce music.
-The main control module uses ESP32, and its core components are 16 mechanical keyboard keys and an EC11 encoder.
+At a high level, the electronic Erhu detects the analog signals resulting from the physical movements of the bow and the keys. An EC11 encoder subsequently converts these analog signals into digital form. These digital signals are then processed by the ESP32-S microprocessor. Software within this microprocessor is responsible for creating the MIDI sequence and transmitting it to the "GarageBand" application on an iPhone via Bluetooth, ultimately resulting in sound sythesis for musical output.
 
 <img src="images/SystemView1.png" width="400" height="300"> <img src="images/SystemView0.png" width="400" height="300">
 
