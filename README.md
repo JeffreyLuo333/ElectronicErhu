@@ -1,4 +1,4 @@
-![image](https://github.com/JeffreyLuo333/ElectronicErhu/assets/114297879/5e93069c-9a98-4ecd-8c8b-d11e06d01349)# Electronic Erhu
+# Electronic Erhu
 <img src="images/FrontView.jpg" width="400" height="300"> <img src="images/BackView.jpg" width="400" height="300">
 
 ## Project Context
