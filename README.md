@@ -9,14 +9,14 @@ This ultimate goal is not just about technical synchronization but capturing the
 This repository contains files and guidelines associated with this project. Please feel free to utilize them.
 
 ## Project Objective
-Build an electronic version of the Chinese string instrument Erhu which utilizes a __physical bow__ as an input mechanism. This device will produce MIDI signals as its output. These signals are then transmitted wirelessly using Bluetooth to a Digital Audio Workstation (DAW) for further editing, mixing, and synthesis.
+We've built an electronic version of the Chinese string instrument Erhu which utilizes a __physical bow__ as an input mechanism. This device produces MIDI signals as its output. These signals are then transmitted wirelessly using Bluetooth to a Digital Audio Workstation (DAW) for further editing, mixing, and synthesis.
 
 The physical bow control lays the foundation for robotic arm manipulation, setting the stage for an investigation into how autonomous musical machines can observe and assimilate the nuances of human performers, encompassing both their physical movements and emotional expressions. This venture seeks to transcend mere technical precision, infusing machine performance with a personalized touch.
 
 ## Project details 
 This section provides a detailed, step-by-step guide to constructing an electronic Erhu, outlining the entire process from start to finish.
 
-This project is inspried by a [DIY electornic Erhu project](https://oshwhub.com/Dr.Zhang/edrum_copy_copy). The microprocessor utilized in the initial project has reached its end-of-life (EOL), necessitating updates to the circuit design to accommodate a newer version of the processor. Furthermore, the software requires additional refinement to generate MIDI outputs that more precisely capture aspects such as pitch, timbre, dynamics, and the articulation of notes.
+This project is inspried by a [DIY e-Erhu project](https://oshwhub.com/Dr.Zhang/edrum_copy_copy). The microprocessor utilized in the initial project has reached its end-of-life (EOL), necessitating updates to the circuit design to accommodate a newer version of the processor. Furthermore, the software requires additional refinement to generate MIDI outputs that more precisely capture aspects such as pitch, timbre, dynamics, and the articulation of notes.
 
 ### Architecture
 
