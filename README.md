@@ -37,8 +37,9 @@ Below is the circuit diagram for the electronic Erhu.
 <img src="images/Circuit_design_diagram.png" width="800" height="450"> 
 
 ### 3.3 BOM list
-<img src="images/BOM.png" width="400" height="300"> <img src="images/SystemView0.png" width="600" height="300">
+<img src="images/BOM.png" width="600" height="300"> 
 
+### 3.3 BOM list
 Here are my additional notes:
 - Soldering Component 16 can be a bit challenging. You may find it helpful to use a scope to ensure precise soldering.
 
