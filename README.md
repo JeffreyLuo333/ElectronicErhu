@@ -16,7 +16,7 @@ The physical bow control lays the foundation for robotic arm manipulation, setti
 ## Project details 
 This section provides a detailed, step-by-step guide to constructing an electronic Erhu, outlining the entire process from start to finish.
 
-This project is inspried by a [DIY e-Erhu project](https://oshwhub.com/Dr.Zhang/edrum_copy_copy). The microprocessor ESP32 utilized in the initial project has reached its end-of-life (EOL), necessitating updates to the circuit design to accommodate a newer version of the processor [ESP32-S](https://docs.ai-thinker.com/en/esp32). Furthermore, the software requires additional refinement to generate MIDI outputs that more precisely capture aspects such as pitch, timbre, dynamics, and the articulation of notes.
+This project is inspried by a [DIY e-Erhu project](https://www.bilibili.com/read/cv12730013/). The microprocessor ESP32 utilized in the initial project has reached its end-of-life (EOL), necessitating updates to the circuit design to accommodate a newer version of the processor [ESP32-S](https://docs.ai-thinker.com/en/esp32). Furthermore, the software requires additional refinement to generate MIDI outputs that more precisely capture aspects such as pitch, timbre, dynamics, and the articulation of notes.
 
 ### Architecture
 
@@ -25,10 +25,14 @@ The main control module uses ESP32, and its core components are 16 mechanical ke
 
 <img src="images/SystemView1.png" width="400" height="300"> <img src="images/SystemView0.png" width="400" height="300">
 
+### Circuit design diagrams
 
+ESP32-S
+
+Others
 
 ### Hardware Design & Instructions to Build an E-Erhu: 
-[DIY electornic erhu project](https://oshwhub.com/Dr.Zhang/edrum_copy_copy) provides comprehensive information on hardware design and step-by-step instructions for constructing an E-Erhu.
+
 Here are my additional notes:
 - Soldering Component 16 can be a bit challenging. You may find it helpful to use a scope to ensure precise soldering.
 
