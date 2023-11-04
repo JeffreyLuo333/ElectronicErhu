@@ -26,6 +26,7 @@ At a high level, the electronic Erhu detects the analog signals resulting from t
 
 ### 3.2 Circuit design diagrams
 The EDA software we've selected, [LC EDA](https://lceda.cn/), is an online platform that offers comprehensive functionality for PCB design at no cost. Additionally, it is integrated with an online marketplace for procuring PCBs and components, which is the primary reason for our decision to opt for this particular tool. 
+
 <img src="images/EDA_UI.png" width="800" height="450"> 
 
 Nevertheless, there are alternative free online tools available that offer greater ease of use for English-speaking users, such as 
@@ -40,6 +41,7 @@ Below is the circuit diagram for the electronic Erhu.
 <img src="images/Circuit_design_diagram.png" width="800" height="450"> 
 
 Below are PCB schematics for the top and bottom PCBs respectively.
+
 <img src="images/EDA_BOTTOM_2D.png" width="400" height="300"> <img src="images/EDA_BOTTOM_3D.png" width="400" height="300">
 <img src="images/EDA_TOP_2D.png" width="400" height="300"> <img src="images/EDA_TOP_3D.png" width="400" height="300">
 
@@ -54,8 +56,7 @@ Soldering is no easy task. It took us weeks to practice and finally become skill
 
 Soldering Component 16, the microprocessor, can be a bit challenging due to the many tiny pins densly spaced. You may find it helpful to use a microscope to ensure precise soldering.
 
-<img src="images/Component16.jpg" width="200" height="200">
-<img src="images/ScopeView.jpg" width="200" height="200">
+<img src="images/Component16.jpg" width="200" height="200"> <img src="images/ScopeView.jpg" width="200" height="200">
 
 It's worth mentioning that a standard encoder produces a clicking sound and vibrations when rotated. To resolve this matter, the encoder needs to be disassembled using appropriate tools, and its components should be removed one by one. Locate the innermost spring piece and use tweezers to depress these two spring components. Subsequently, reassemble all the components in the correct sequence and seal the encoder. Removing this spring enhances the encoder's rotational smoothness.
 
