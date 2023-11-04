@@ -16,7 +16,7 @@ The physical bow control lays the foundation for robotic arm manipulation, setti
 ## Project details 
 This section provides a detailed, step-by-step guide to constructing an electronic Erhu, outlining the entire process from start to finish.
 
-This project is inspried by a [DIY e-Erhu project](https://oshwhub.com/Dr.Zhang/edrum_copy_copy). The microprocessor utilized in the initial project has reached its end-of-life (EOL), necessitating updates to the circuit design to accommodate a newer version of the processor. Furthermore, the software requires additional refinement to generate MIDI outputs that more precisely capture aspects such as pitch, timbre, dynamics, and the articulation of notes.
+This project is inspried by a [DIY e-Erhu project](https://oshwhub.com/Dr.Zhang/edrum_copy_copy). The microprocessor utilized in the initial project has reached its end-of-life (EOL), necessitating updates to the circuit design to accommodate a newer version of the [processor](https://docs.ai-thinker.com/en/esp32). Furthermore, the software requires additional refinement to generate MIDI outputs that more precisely capture aspects such as pitch, timbre, dynamics, and the articulation of notes.
 
 ### Architecture
 
