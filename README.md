@@ -51,11 +51,12 @@ https://github.com/JeffreyLuo333/ElectronicErhu/assets/114297879/c262f2a7-2b90-4
 
 ## Additional resources
 Here are the links for additional materials:
+- [Knowhow for soldering tiny components](https://www.bilibili.com/video/BV1T94y1D76n/?vd_source=e28f404c31d2a580b2bf5ef9bb423407)
 - [Circuit Board Design & Process](https://lceda.cn/editor) for modifying the PCB design.
 - [MCP ESP32](https://www.espressif.com/en/products/socs/esp32)
 - [Bluetooth LE MIDI Specification](https://www.midi.org/specifications-old/item/bluetooth-le-midi)
 - [Espressif IoT Development Framework](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/#installation) for modifying ESP32 software.
-- [ESP32 Download Tool](https://www.espressif.com/en/support/download/other-tools?keys=&field_type_tid%5B%5D=13) for downloading firmware to the target board. 
+- [ESP32 Download Tool](https://www.espressif.com/en/support/download/other-tools?keys=&field_type_tid%5B%5D=13) for downloading firmware to the target board.
 
 
 
