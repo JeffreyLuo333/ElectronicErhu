@@ -1,13 +1,17 @@
 # Electronic Erhu
 <img src="images/FrontView.jpg" width="400" height="300"> <img src="images/BackView.jpg" width="400" height="300">
 
-How can a machine replicate the nuances and emotions of human music performance, rather than merely producing standardized sounds devoid of personal touch? Furthermore, how can these machines be designed to harmoniously accompany live human performers? As I embark on this journey, my initial endeavor is to create a machine performer—an electronic string instrument that fuses human touch with control. This foundation will then be enriched with machine intelligence in my subsequent project.
+How can a machine emulate the nuances and emotions of human performance, instead of yielding uniform sounds that lack a personal touch? Furthermore, what design principles should govern these machines to ensure they accompany human musicians seamlessly and harmoniously on stage? Our exploratory journey of creating a human-machine orchestra begins with a foundational step: crafting an electronic instrument that is programmable so that it is capable of nuanced performance. This instrument will lay the groundwork for future exploration into advanced autonomous control within our forthcoming projects.
+
+This ultimate goal is not just about technical synchronization but capturing the essence of musical empathy, enabling a seamless and emotive interplay between silicon and soul.
 
 This repository contains files and guidelines pertaining to this project. Feel free to use them as you deem appropriate.
 
-## Project Objectives
+## Project Objective
 ### What?
-Construct an electronic rendition of the Chinese stringed instrument, Erhu. This version uses a physical bow for input control, outputs in MIDI format, and transmits the data via BLE to a DAW for further editing, mixing, and synthesis.
+Build an electronic version of the Chinese string instrument Erhu which utilizes a physical bow as an input mechanism. This device will produce MIDI signals as its output. These signals are then transmitted wirelessly using Bluetooth to a Digital Audio Workstation (DAW) for further editing, mixing, and synthesis.
+
+The physical bow control lays the foundation for robotic arm manipulation, setting the stage for an investigation into how autonomous musical machines can observe and assimilate the nuances of human performers, encompassing both their physical movements and emotional expressions. This venture seeks to transcend mere technical accuracy, infusing machine performance with a personalized touch.
 
 ### Why / Inspirations:
 - Using a MIDI keyboard in conjunction with DAW's Virtual Studio Technology (VST) plugins presents certain challenges when generating, editing, and mixing a musical track. Playing an instrument digitally using buttons and knobs feels __starkly different__ and __less intuitive__ than the tactile experience of playing a physical Erhu with a bow. Such interfaces often fail to capture the subtle nuances of pitch, tone color, volume, and note articulation. 
