@@ -26,11 +26,17 @@ The main control module uses ESP32, and its core components are 16 mechanical ke
 <img src="images/SystemView1.png" width="400" height="300"> <img src="images/SystemView0.png" width="400" height="300">
 
 ### Circuit design diagrams
-<img src="images/Circuit_design_diagram.png" width="800" height="600"> 
+The EDA software that we have chosen is an online tool [LC EDA](https://lceda.cn/). It is a free tool that has all the necessary functions for PCB design. In addtion, it is integrated with online marketplace for purchasing PCB and componnents. That's the main reason we decided to choose this one. However, there are other free online tools that are more English friendly, such as 
+- [Circuit Diagram](https://www.circuit-diagram.org/)
+- [Samrt Draw](https://www.smartdraw.com/circuit-diagram/circuit-diagram-maker.htm)
+- [Lucid Chart](https://www.lucidchart.com/pages/examples/circuit-diagram-maker)
 
-ESP32-S
+You can pick and choose based on your own preferences. We will provide the BOM list and detailed part number for each component. It is totally fine if you choose to use your favorate tool to design and procure the components elsewhere based on the BOM list.
 
-Others
+Below is the circuit diagram for the electronic Erhu. 
+
+<img src="images/Circuit_design_diagram.png" width="800" height="450"> 
+
 
 ### Hardware Design & Instructions to Build an E-Erhu: 
 
