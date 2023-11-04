@@ -25,7 +25,10 @@ At a high level, the electronic Erhu detects the analog signals resulting from t
 <img src="images/SystemView1.png" width="400" height="300"> <img src="images/SystemView0.png" width="400" height="300">
 
 ### 3.2 Circuit design diagrams
-The EDA software we've selected, [LC EDA](https://lceda.cn/), is an online platform that offers comprehensive functionality for PCB design at no cost. Additionally, it is integrated with an online marketplace for procuring PCBs and components, which is the primary reason for our decision to opt for this particular tool. Nevertheless, there are alternative free online tools available that offer greater ease of use for English-speaking users, such as 
+The EDA software we've selected, [LC EDA](https://lceda.cn/), is an online platform that offers comprehensive functionality for PCB design at no cost. Additionally, it is integrated with an online marketplace for procuring PCBs and components, which is the primary reason for our decision to opt for this particular tool. 
+<img src="images/EDA_UI.png" width="800" height="450"> 
+
+Nevertheless, there are alternative free online tools available that offer greater ease of use for English-speaking users, such as 
 - [Circuit Diagram](https://www.circuit-diagram.org/)
 - [Samrt Draw](https://www.smartdraw.com/circuit-diagram/circuit-diagram-maker.htm)
 - [Lucid Chart](https://www.lucidchart.com/pages/examples/circuit-diagram-maker)
@@ -36,8 +39,15 @@ Below is the circuit diagram for the electronic Erhu.
 
 <img src="images/Circuit_design_diagram.png" width="800" height="450"> 
 
-### 3.3 BOM list
+Bwlow are PCB schematics for the top and bottom PCB respectively.
+<img src="images/EDA_BOTTOM_2D.png" width="400" height="300"> <img src="images/EDA_BOTTOM_3D.png" width="400" height="300">
+<img src="images/EDA_TOP_2D.png" width="400" height="300"> <img src="images/EDA_TOP_3D.png" width="400" height="300">
+
+### 3.3 Bill of Materials (BOM)
 <img src="images/BOM.png" width="600" height="300"> 
+
+All the components can be laid on a piece of paper.
+<img src="images/BOM_full_picture.png" width="600" height="300"> 
 
 ### 3.3 BOM list
 Here are my additional notes:
