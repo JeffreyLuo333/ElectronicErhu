@@ -39,38 +39,40 @@ Below is the circuit diagram for the electronic Erhu.
 
 <img src="images/Circuit_design_diagram.png" width="800" height="450"> 
 
-Bwlow are PCB schematics for the top and bottom PCB respectively.
+Below are PCB schematics for the top and bottom PCBs respectively.
 <img src="images/EDA_BOTTOM_2D.png" width="400" height="300"> <img src="images/EDA_BOTTOM_3D.png" width="400" height="300">
 <img src="images/EDA_TOP_2D.png" width="400" height="300"> <img src="images/EDA_TOP_3D.png" width="400" height="300">
 
 ### 3.3 Bill of Materials (BOM)
 <img src="images/BOM.png" width="600" height="300"> 
 
-All the components can be laid on a piece of paper.
+All the components can be placed on a piece of paper.
 <img src="images/BOM_full_picture.jpg" width="600" height="300"> 
 
-### 3.3 BOM list
-Here are my additional notes:
-- Soldering Component 16 can be a bit challenging. You may find it helpful to use a scope to ensure precise soldering.
+### 3.3 Soldering process
+Soldering is no easy task. It took us weeks to practice and finally become skilled at doing it. Soldering components are prettry much the same. Below, we will just show the images and a video for the component since it is more complicated.
 
-    <img src="images/Component16.jpg" width="200" height="200">
-    <img src="images/ScopeView.jpg" width="200" height="200">
+Soldering Component 16, the microprocessor, can be a bit challenging due to the many tiny pins densly spaced. You may find it helpful to use a microscope to ensure precise soldering.
 
-- It's worth mentioning that a standard encoder produces a clicking sound and vibrations when rotated. To resolve this matter, the encoder needs to be disassembled using appropriate tools, and its components should be removed one by one. Locate the innermost spring piece and use tweezers to depress these two spring components. Subsequently, reassemble all the components in the correct sequence and seal the encoder. Removing this spring enhances the encoder's rotational smoothness.
+<img src="images/Component16.jpg" width="200" height="200">
+<img src="images/ScopeView.jpg" width="200" height="200">
 
-### Firmware:
-The [Original Software Source Code](https://github.com/ospanic/eerhu) can be found at: https://github.com/ospanic/eerhu. I have also cloned it to the "eerhu" folder. Additionally, Eerhu_V0.1.bin is a precompiled target image that can be downloaded to the target board using the [ESP32 Download Tool](https://www.espressif.com/en/support/download/other-tools?keys=&field_type_tid%5B%5D=13).
+It's worth mentioning that a standard encoder produces a clicking sound and vibrations when rotated. To resolve this matter, the encoder needs to be disassembled using appropriate tools, and its components should be removed one by one. Locate the innermost spring piece and use tweezers to depress these two spring components. Subsequently, reassemble all the components in the correct sequence and seal the encoder. Removing this spring enhances the encoder's rotational smoothness.
 
+### 3.4 Firmware:
+The [Original Software Source Code](https://github.com/ospanic/eerhu) can be found at: https://github.com/ospanic/eerhu. I have also cloned it to the "eerhu" folder. 
+
+Additionally, Eerhu_V0.1.bin is a precompiled target image that can be downloaded to the target board using the [ESP32 Download Tool](https://www.espressif.com/en/support/download/other-tools?keys=&field_type_tid%5B%5D=13).
 <img src="images/Download.png" width="400" height="300">
 
-### Integration:
+### 3.5 Integration:
 To connect your electronic erhu, open the GarageBand app on your mobile phone, then tap on "Settings" -> "Advanced" -> "Bluetooth MIDI Devices." With a little practice, I hope you'll soon find joy in playing.
 
-##Demo
+## 4. Demo
 
 https://github.com/JeffreyLuo333/ElectronicErhu/assets/114297879/c262f2a7-2b90-4fbd-84d1-cd86bc75b108
 
-## Additional resources
+## 5. Additional resources
 Here are the links for additional materials:
 - [Knowhow for soldering tiny components](https://www.bilibili.com/video/BV1T94y1D76n/?vd_source=e28f404c31d2a580b2bf5ef9bb423407)
 - [Circuit Board Design & Process](https://lceda.cn/editor) for modifying the PCB design.
@@ -78,6 +80,8 @@ Here are the links for additional materials:
 - [Bluetooth LE MIDI Specification](https://www.midi.org/specifications-old/item/bluetooth-le-midi)
 - [Espressif IoT Development Framework](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/#installation) for modifying ESP32 software.
 - [ESP32 Download Tool](https://www.espressif.com/en/support/download/other-tools?keys=&field_type_tid%5B%5D=13) for downloading firmware to the target board.
+
+Best of luck! Should you run into any issues, please feel free to contact us at jeffrey.luo333@gmail.com
 
 
 
