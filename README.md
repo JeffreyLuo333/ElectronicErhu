@@ -47,7 +47,7 @@ Bwlow are PCB schematics for the top and bottom PCB respectively.
 <img src="images/BOM.png" width="600" height="300"> 
 
 All the components can be laid on a piece of paper.
-<img src="images/BOM_full_picture.png" width="600" height="300"> 
+<img src="images/BOM_full_picture.jpg" width="600" height="300"> 
 
 ### 3.3 BOM list
 Here are my additional notes:
