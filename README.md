@@ -16,7 +16,7 @@ The physical bow control lays the foundation for robotic arm manipulation, setti
 ## Project details 
 This section provides a detailed, step-by-step guide to constructing an electronic Erhu, outlining the entire process from start to finish.
 
-This project is inspried by a [DIY e-Erhu project](https://oshwhub.com/Dr.Zhang/edrum_copy_copy). The microprocessor utilized in the initial project has reached its end-of-life (EOL), necessitating updates to the circuit design to accommodate a newer version of the [processor (ESP32S)](https://docs.ai-thinker.com/en/esp32). Furthermore, the software requires additional refinement to generate MIDI outputs that more precisely capture aspects such as pitch, timbre, dynamics, and the articulation of notes.
+This project is inspried by a [DIY e-Erhu project](https://oshwhub.com/Dr.Zhang/edrum_copy_copy). The microprocessor ESP32 utilized in the initial project has reached its end-of-life (EOL), necessitating updates to the circuit design to accommodate a newer version of the processor [ESP32-S](https://docs.ai-thinker.com/en/esp32). Furthermore, the software requires additional refinement to generate MIDI outputs that more precisely capture aspects such as pitch, timbre, dynamics, and the articulation of notes.
 
 ### Architecture
 
@@ -24,6 +24,8 @@ This project entails crafting an electronic erhu utilizing the ESP32 module, ena
 The main control module uses ESP32, and its core components are 16 mechanical keyboard keys and an EC11 encoder.
 
 <img src="images/SystemView1.png" width="400" height="300"> <img src="images/SystemView0.png" width="400" height="300">
+
+
 
 ### Hardware Design & Instructions to Build an E-Erhu: 
 [DIY electornic erhu project](https://oshwhub.com/Dr.Zhang/edrum_copy_copy) provides comprehensive information on hardware design and step-by-step instructions for constructing an E-Erhu.
@@ -43,13 +45,13 @@ The [Original Software Source Code](https://github.com/ospanic/eerhu) can be fou
 ### Integration:
 To connect your electronic erhu, open the GarageBand app on your mobile phone, then tap on "Settings" -> "Advanced" -> "Bluetooth MIDI Devices." With a little practice, I hope you'll soon find joy in playing.
 
-__Demo__
+##Demo
 
 https://github.com/JeffreyLuo333/ElectronicErhu/assets/114297879/c262f2a7-2b90-4fbd-84d1-cd86bc75b108
 
 ## Additional resources
 Here are the links for additional materials:
-- [Circuit Board Design & Process](https://lceda.cn/editor) for modifing the PCB design.
+- [Circuit Board Design & Process](https://lceda.cn/editor) for modifying the PCB design.
 - [MCP ESP32](https://www.espressif.com/en/products/socs/esp32)
 - [Bluetooth LE MIDI Specification](https://www.midi.org/specifications-old/item/bluetooth-le-midi)
 - [Espressif IoT Development Framework](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/#installation) for modifying ESP32 software.
