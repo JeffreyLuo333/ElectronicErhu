@@ -1,25 +1,24 @@
-# Electronic Erhu
+![image](https://github.com/JeffreyLuo333/ElectronicErhu/assets/114297879/5e93069c-9a98-4ecd-8c8b-d11e06d01349)# Electronic Erhu
 <img src="images/FrontView.jpg" width="400" height="300"> <img src="images/BackView.jpg" width="400" height="300">
 
+## Project Context
 How can a machine emulate the nuances and emotions of human performance, instead of yielding uniform sounds that lack a personal touch? Furthermore, what design principles should govern these machines to ensure they accompany human musicians seamlessly and harmoniously on stage? Our exploratory journey of creating a human-machine orchestra begins with a foundational step: crafting an electronic instrument that is programmable so that it is capable of nuanced performance. This instrument will lay the groundwork for future exploration into advanced autonomous control within our forthcoming projects.
 
 This ultimate goal is not just about technical synchronization but capturing the essence of musical empathy, enabling a seamless and emotive interplay between silicon and soul.
 
-This repository contains files and guidelines pertaining to this project. Feel free to use them as you deem appropriate.
+This repository contains files and guidelines associated with this project. Please feel free to utilize them.
 
 ## Project Objective
-### What?
-Build an electronic version of the Chinese string instrument Erhu which utilizes a physical bow as an input mechanism. This device will produce MIDI signals as its output. These signals are then transmitted wirelessly using Bluetooth to a Digital Audio Workstation (DAW) for further editing, mixing, and synthesis.
+Build an electronic version of the Chinese string instrument Erhu which utilizes a __physical bow__ as an input mechanism. This device will produce MIDI signals as its output. These signals are then transmitted wirelessly using Bluetooth to a Digital Audio Workstation (DAW) for further editing, mixing, and synthesis.
 
-The physical bow control lays the foundation for robotic arm manipulation, setting the stage for an investigation into how autonomous musical machines can observe and assimilate the nuances of human performers, encompassing both their physical movements and emotional expressions. This venture seeks to transcend mere technical accuracy, infusing machine performance with a personalized touch.
+The physical bow control lays the foundation for robotic arm manipulation, setting the stage for an investigation into how autonomous musical machines can observe and assimilate the nuances of human performers, encompassing both their physical movements and emotional expressions. This venture seeks to transcend mere technical precision, infusing machine performance with a personalized touch.
 
-### Why / Inspirations:
-- Using a MIDI keyboard in conjunction with DAW's Virtual Studio Technology (VST) plugins presents certain challenges when generating, editing, and mixing a musical track. Playing an instrument digitally using buttons and knobs feels __starkly different__ and __less intuitive__ than the tactile experience of playing a physical Erhu with a bow. Such interfaces often fail to capture the subtle nuances of pitch, tone color, volume, and note articulation. 
-- This project is inspried by a [DIY electornic erhu project](https://oshwhub.com/Dr.Zhang/edrum_copy_copy) which crafts an electronic Erhu with a __physical bow__, merging the __advantages of digital music__ with the __intuitive control of a traditional instrument__, tailored for human performers.
-- The incorporation of physical bow control not only serves the musical purpose but also establishes a foundation for __robotic arm control__. This exploration seeks to understand how an autonomous music machine might keenly __observe and glean insights from the nuanced movements and emotions of human performers__, transcending mere technical precision and embracing the human touch in their performance. How might such machines effectively __track and harmonize with human musicians__ in an orchestral setting? The E-Erhu represents the inaugural phase of my journey to craft a sophisticated machine performer—an electronic string instrument adept at producing music imbued with human finesse and sentiment. This foundation will be further augmented with software-driven mechanical nuances in my upcoming project.
+## Project details 
+This section provides a detailed, step-by-step guide to constructing an electronic Erhu, outlining the entire process from start to finish.
 
-## Description: 
-This section contains my learning summary.
+This project is inspried by a [DIY electornic Erhu project](https://oshwhub.com/Dr.Zhang/edrum_copy_copy). The microprocessor utilized in the initial project has reached its end-of-life (EOL), necessitating updates to the circuit design to accommodate a newer version of the processor. Furthermore, the software requires additional refinement to generate MIDI outputs that more precisely capture aspects such as pitch, timbre, dynamics, and the articulation of notes.
+
+### Architecture
 
 This project entails crafting an electronic erhu utilizing the ESP32 module, enabling it to establish a Bluetooth connection with the "GarageBand" app on an iPhone to produce music.
 The main control module uses ESP32, and its core components are 16 mechanical keyboard keys and an EC11 encoder.
