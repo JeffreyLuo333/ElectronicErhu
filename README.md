@@ -63,10 +63,13 @@ Soldering component 16, the microprocessor, can be a bit challenging due to the 
 It's worth mentioning that a standard encoder produces a clicking sound and vibrations when rotated. To resolve this matter, the encoder needs to be disassembled using appropriate tools, and its components should be removed one by one. Locate the innermost spring piece and use tweezers to depress these two spring components. Subsequently, reassemble all the components in the correct sequence and seal the encoder. Removing this spring enhances the encoder's rotational smoothness.
 
 ### 3.4 Firmware
-The [Original Software Source Code](https://github.com/ospanic/eerhu) can be found at: https://github.com/ospanic/eerhu. I have also cloned it to the "eerhu" folder. 
+Based on the [Original Source Code](https://github.com/ospanic/eerhu), we enhanced the part of the code to . You can find the source code under the "eerhu" folder. 
 
-Additionally, Eerhu_V0.1.bin is a precompiled target image that can be downloaded to the target board using the [ESP32 Download Tool](https://www.espressif.com/en/support/download/other-tools?keys=&field_type_tid%5B%5D=13).
-<img src="images/Download.png" width="400" height="300">
+Eerhu_V0.1.bin is a precompiled target image that can be downloaded to the target board using the [ESP32 Download Tool](https://www.espressif.com/en/support/download/other-tools?keys=&field_type_tid%5B%5D=13).
+
+<img src="images/downloading_firmware_tool.png" width="500" height="300">
+
+<img src="images/downloading_firmware.png" width="500" height="300">
 
 ### 3.5 Integration
 To connect your electronic erhu, open the GarageBand app on your mobile phone, then tap on "Settings" -> "Advanced" -> "Bluetooth MIDI Devices." 
