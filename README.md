@@ -25,18 +25,19 @@ At a high level, the electronic Erhu detects the analog signals resulting from t
 <img src="images/SystemView1.png" width="400" height="300"> <img src="images/SystemView0.png" width="400" height="300">
 
 ### 3.2 Circuit design diagrams
-The EDA software that we have chosen is an online tool [LC EDA](https://lceda.cn/). It is a free tool that has all the necessary functions for PCB design. In addtion, it is integrated with online marketplace for purchasing PCB and componnents. That's the main reason we decided to choose this one. However, there are other free online tools that are more English friendly, such as 
+The EDA software we've selected, [LC EDA](https://lceda.cn/), is an online platform that offers comprehensive functionality for PCB design at no cost. Additionally, it is integrated with an online marketplace for procuring PCBs and components, which is the primary reason for our decision to opt for this particular tool. Nevertheless, there are alternative free online tools available that offer greater ease of use for English-speaking users, such as 
 - [Circuit Diagram](https://www.circuit-diagram.org/)
 - [Samrt Draw](https://www.smartdraw.com/circuit-diagram/circuit-diagram-maker.htm)
 - [Lucid Chart](https://www.lucidchart.com/pages/examples/circuit-diagram-maker)
 
-You can pick and choose based on your own preferences. We will provide the BOM list and detailed part number for each component. It is totally fine if you choose to use your favorate tool to design and procure the components elsewhere based on the BOM list.
+You are free to select components according to your personal preferences. We will supply you with a Bill of Materials (BOM) and detailed part numbers for each component below. Should you prefer to utilize your own preferred tools for design and procurement, you are completely at liberty to source the components from alternative vendors, guided by the provided BOM list.
 
 Below is the circuit diagram for the electronic Erhu. 
 
 <img src="images/Circuit_design_diagram.png" width="800" height="450"> 
 
-### 3.3 Hardware Design & Instructions to Build an E-Erhu: 
+### 3.3 BOM list
+<img src="images/BOM.png" width="400" height="300"> <img src="images/SystemView0.png" width="600" height="300">
 
 Here are my additional notes:
 - Soldering Component 16 can be a bit challenging. You may find it helpful to use a scope to ensure precise soldering.
