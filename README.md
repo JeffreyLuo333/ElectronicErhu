@@ -1,30 +1,30 @@
 # Electronic Erhu
 <img src="images/FrontView.jpg" width="400" height="300"> <img src="images/BackView.jpg" width="400" height="300">
 
-## Project context
+## 1. Project context
 How can a machine emulate the nuances and emotions of human performance, instead of yielding uniform sounds that lack a personal touch? Furthermore, what design principles should govern these machines to ensure they accompany human musicians seamlessly and harmoniously on stage? Our exploratory journey of creating a human-machine orchestra begins with a foundational step: crafting an electronic instrument that is programmable so that it is capable of nuanced performance. This instrument will lay the groundwork for future exploration into advanced autonomous control within our forthcoming projects.
 
 This ultimate goal is not just about technical synchronization but capturing the essence of musical empathy, enabling a seamless and emotive interplay between silicon and soul.
 
 This repository contains files and guidelines associated with this project. Please feel free to utilize them.
 
-## Project objective
+## 2. Project objective
 We've built an electronic version of the Chinese string instrument Erhu which utilizes a __physical bow__ as an input mechanism. This device produces MIDI signals as its output. These signals are then transmitted wirelessly using Bluetooth to a Digital Audio Workstation (DAW) for further editing, mixing, and synthesis.
 
 The physical bow control lays the foundation for robotic arm manipulation, setting the stage for an investigation into how autonomous musical machines can observe and assimilate the nuances of human performers, encompassing both their physical movements and emotional expressions. This venture seeks to transcend mere technical precision, infusing machine performance with a personalized touch.
 
-## Project details 
+## 3. Project details 
 This section provides a detailed, step-by-step guide to constructing an electronic Erhu, outlining the entire process from start to finish.
 
 This project is inspried by a [DIY e-Erhu project](https://www.bilibili.com/read/cv12730013/). The microprocessor ESP32 utilized in the initial project has reached its end-of-life (EOL), necessitating updates to the circuit design to accommodate a newer version of the processor [ESP32-S](https://docs.ai-thinker.com/en/esp32). Furthermore, the software requires additional refinement to generate MIDI outputs that more precisely capture aspects such as pitch, timbre, dynamics, and the articulation of notes.
 
-### Architecture
+### 3.1 Architecture
 
-At a high level, the electronic Erhu detects the analog signals resulting from the physical movements of the bow and the keys. An EC11 encoder subsequently converts these analog signals into digital form. These digital signals are then processed by the ESP32-S microprocessor. Software within this microprocessor is responsible for creating the MIDI sequence and transmitting it to the "GarageBand" application on an iPhone via Bluetooth, ultimately resulting in sound sythesis for musical output.
+At a high level, the electronic Erhu detects the analog signals resulting from the physical movements of the bow and the keys. An EC11 encoder subsequently converts these analog signals into digital form. These digital signals are then processed by the ESP32-S microprocessor. Software within this microprocessor is responsible for creating the MIDI sequence and transmitting it to the GarageBand application on an iPhone via Bluetooth. GarageBand ultimately sythesizes the musical output.
 
 <img src="images/SystemView1.png" width="400" height="300"> <img src="images/SystemView0.png" width="400" height="300">
 
-### Circuit design diagrams
+### 3.2 Circuit design diagrams
 The EDA software that we have chosen is an online tool [LC EDA](https://lceda.cn/). It is a free tool that has all the necessary functions for PCB design. In addtion, it is integrated with online marketplace for purchasing PCB and componnents. That's the main reason we decided to choose this one. However, there are other free online tools that are more English friendly, such as 
 - [Circuit Diagram](https://www.circuit-diagram.org/)
 - [Samrt Draw](https://www.smartdraw.com/circuit-diagram/circuit-diagram-maker.htm)
@@ -36,8 +36,7 @@ Below is the circuit diagram for the electronic Erhu.
 
 <img src="images/Circuit_design_diagram.png" width="800" height="450"> 
 
-
-### Hardware Design & Instructions to Build an E-Erhu: 
+### 3.3 Hardware Design & Instructions to Build an E-Erhu: 
 
 Here are my additional notes:
 - Soldering Component 16 can be a bit challenging. You may find it helpful to use a scope to ensure precise soldering.
