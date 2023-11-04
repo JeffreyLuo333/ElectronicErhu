@@ -65,7 +65,7 @@ Soldering component 16, the microprocessor, can be a bit challenging due to the 
 It's worth mentioning that a standard encoder produces a clicking sound and vibrations when rotated. To resolve this matter, the encoder needs to be disassembled using appropriate tools, and its components should be removed one by one. Locate the innermost spring piece and use tweezers to depress these two spring components. Subsequently, reassemble all the components in the correct sequence and seal the encoder. Removing this spring enhances the encoder's rotational smoothness.
 
 ### 3.4 Firmware
-Based on the [Original Source Code](https://github.com/ospanic/eerhu), we enhanced the part of the code to capture aspects such as pitch, timbre, dynamics, and the articulation of notes more precisely when generating the MIDI sequence. You can find the source code under the "eerhu" folder. 
+Based on the [Original Source Code](https://github.com/ospanic/eerhu), we enhanced some parts of the codebase to capture aspects such as pitch, timbre, dynamics, and the articulation of notes more precisely when generating the MIDI sequence. You can find the source code under the "eerhu" folder. 
 
 Eerhu_V0.1.bin is a precompiled target image that can be downloaded to the target board using the [ESP32 Download Tool](https://www.espressif.com/en/support/download/other-tools?keys=&field_type_tid%5B%5D=13).
 
@@ -82,7 +82,8 @@ With a little practice, I hope you'll soon find joy in playing the e-Erhu.
 
 https://github.com/JeffreyLuo333/ElectronicErhu/assets/114297879/c262f2a7-2b90-4fbd-84d1-cd86bc75b108
 
-## 5. Sequal - 
+## 5. Sequel - electronic pipe instrument
+
 
 ## 6. Additional resources
 Here are the links for additional materials:
