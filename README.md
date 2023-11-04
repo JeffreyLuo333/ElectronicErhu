@@ -82,7 +82,9 @@ With a little practice, I hope you'll soon find joy in playing the e-Erhu.
 
 https://github.com/JeffreyLuo333/ElectronicErhu/assets/114297879/c262f2a7-2b90-4fbd-84d1-cd86bc75b108
 
-## 5. Additional resources
+## 5. Sequal - 
+
+## 6. Additional resources
 Here are the links for additional materials:
 - [Knowhow for soldering tiny components](https://www.bilibili.com/video/BV1T94y1D76n/?vd_source=e28f404c31d2a580b2bf5ef9bb423407)
 - [Circuit Board Design & Process](https://lceda.cn/editor) for modifying the PCB design.
