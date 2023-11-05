@@ -2,11 +2,11 @@
 <img src="images/FrontView.jpg" width="400" height="300"> <img src="images/BackView.jpg" width="400" height="300">
 
 ## 1. Project context
-In a futuristic orchestra, how can autonomous musical machines grasp the nuances and emotions of human performance, instead of yielding uniform sounds that lack a personal touch?? How can such musical machines harmoniously accompany human musicians and evoke authentic emotional connections with audiences, avoiding perceptions of cold technological showmanship?
+In a futuristic orchestra, how can autonomous musical machines grasp the __nuances and emotions__ of human performance, instead of yielding uniform sounds that lack a personal touch?? How can such musical machines harmoniously __accompany human musicians__ and evoke authentic __emotional connections__ with audiences, avoiding perceptions of __cold technological showmanship__?
 
-Our exploration into the technologies for a human-machine orchestra begins with a foundational step: crafting an electronic instrument that is programmable so that it can be trained for nuanced performance. This instrument will lay the groundwork for future exploration into advanced autonomous control within our forthcoming projects.
+Our exploration into the technologies for a __human-machine orchestra__ begins with a foundational step: crafting an electronic instrument that is programmable so that it can be __trained for nuanced performance__. This instrument will lay the groundwork for future exploration into advanced autonomous control within our forthcoming projects.
 
-This ultimate goal is not just about technical synchronization but capturing the essence of musical empathy, enabling a seamless and emotive interplay between silicon and soul.
+This ultimate goal is not just about technical synchronization but capturing the essence of musical empathy, enabling a seamless and emotive __interplay between silicon and soul__.
 
 This repository contains files and guidelines associated with this project. Please feel free to utilize them.
 
@@ -60,7 +60,7 @@ Soldering is no easy task. It took us weeks to practice and finally become skill
 
 <img src="images/component8_before.jpg" width="500" height="300"> <img src="images/component8_after.png" width="500" height="300"> 
 
-Soldering component 16, the microprocessor, can be a bit challenging due to the many tiny pins densly spaced. You may find it helpful to use a microscope to ensure precise soldering.
+Soldering the microprocessor, component 16, can be somewhat challenging because of its numerous small pins that are closely spaced. Utilizing a __magnifying__ scope may enhance the precision of your soldering work.
 
 <img src="images/Component16.jpg" width="200" height="200"> <img src="images/component16_on_PCB.jpg" width="200" height="200"> <img src="images/ScopeView.jpg" width="200" height="200">
 
