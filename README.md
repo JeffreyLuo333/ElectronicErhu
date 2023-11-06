@@ -2,18 +2,18 @@
 <img src="images/FrontView.jpg" width="400" height="300"> <img src="images/BackView.jpg" width="400" height="300">
 
 ## 1. Project context
-In a futuristic orchestra, how can autonomous musical machines convey the __`nuances and emotions`__ inherent in human performance, instead of yielding uniform sounds that lack a personal touch?? How can such musical machines harmoniously __accompany human musicians__ and evoke authentic __emotional connections__ with audiences, avoiding perceptions of __cold technological showmanship__?
+In a futuristic orchestra, how can autonomous musical machines convey the __`nuances and emotions`__ inherent in human performance, instead of yielding uniform sounds that lack a personal touch?? How can such musical machines harmoniously __`accompany human musicians`__ and evoke authentic __`emotional connections`__ with audiences, avoiding perceptions of __`cold technological showmanship`__?
 
-Our exploration into the technologies for a __human-machine orchestra__ begins with a foundational step: crafting an electronic instrument that is programmable so that it can be __trained for nuanced performance__. This instrument will lay the groundwork for future exploration into advanced autonomous control within our forthcoming projects.
+Our exploration into the technologies for a __`human-machine orchestra`__ begins with a foundational step: crafting an electronic instrument that is programmable so that it can be __`trained for nuanced performance`__. This instrument will lay the groundwork for future exploration into advanced autonomous control within our forthcoming projects.
 
-This ultimate goal is not just about technical synchronization but capturing the essence of musical empathy, enabling a seamless and emotive __interplay between silicon and soul__.
+This ultimate goal is not just about technical synchronization but capturing the essence of musical empathy, enabling a seamless and emotive __`interplay between silicon and soul`__.
 
 This repository contains files and guidelines associated with this project. Please feel free to utilize them.
 
 ## 2. Project objective
-We've built an electronic version of the Chinese string instrument Erhu which utilizes a __physical bow__ as an input mechanism. This device produces MIDI signals as its output. These signals are then transmitted wirelessly using Bluetooth to a Digital Audio Workstation (DAW) for further editing, mixing, and synthesis.
+We've built an electronic version of the Chinese string instrument Erhu which utilizes a __`physical bow`__ as an input mechanism. This device produces MIDI signals as its output. These signals are then transmitted wirelessly using Bluetooth to a Digital Audio Workstation (DAW) for further editing, mixing, and synthesis.
 
-The physical bow control lays the foundation for robotic arm manipulation, setting the stage for an investigation into how autonomous musical machines can __observe and assimilate__ the __nuances of human performers__, encompassing both their __physical movements and emotional expressions__. This venture seeks to transcend mere technical precision, infusing machine performance with __a personalized touch__.
+The physical bow control lays the foundation for robotic arm manipulation, setting the stage for an investigation into how autonomous musical machines can __`observe and assimilate`__ the __`nuances of human performers`__, encompassing both their __`physical movements and emotional expressions`__. This venture seeks to transcend mere technical precision, infusing machine performance with __`a personalized touch`__.
 
 ## 3. Project details 
 This section provides a detailed, step-by-step guide to constructing an electronic Erhu, outlining the entire process from start to finish.
