@@ -2,7 +2,7 @@
 <img src="images/FrontView.jpg" width="400" height="300"> <img src="images/BackView.jpg" width="400" height="300">
 
 ## 1. Project context
-In a futuristic orchestra, how can autonomous musical machines convey the __nuances and emotions__ inherent in human performance, instead of yielding uniform sounds that lack a personal touch?? How can such musical machines harmoniously __accompany human musicians__ and evoke authentic __emotional connections__ with audiences, avoiding perceptions of __cold technological showmanship__?
+In a futuristic orchestra, how can autonomous musical machines convey the __`nuances and emotions`__ inherent in human performance, instead of yielding uniform sounds that lack a personal touch?? How can such musical machines harmoniously __accompany human musicians__ and evoke authentic __emotional connections__ with audiences, avoiding perceptions of __cold technological showmanship__?
 
 Our exploration into the technologies for a __human-machine orchestra__ begins with a foundational step: crafting an electronic instrument that is programmable so that it can be __trained for nuanced performance__. This instrument will lay the groundwork for future exploration into advanced autonomous control within our forthcoming projects.
 
