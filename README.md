@@ -58,7 +58,7 @@ All the components can be placed on a piece of paper.
 ### 3.3 Soldering process
 Soldering is no easy task. It took us weeks to practice and finally become skilled at doing it. Soldering components are prettry much the same. Below, we will just show the images and a video for component 8, the resistors, since they are very tiny.
 
-<img src="images/component8_before.jpg" width="500" height="300"> <img src="images/component8_after.png" width="500" height="300"> 
+<img src="images/component8_before.jpg" width="500" height="300"> <img src="images/component8_soldering.png" width="500" height="300"> <img src="images/component8_after.png" width="500" height="300"> 
 
 Soldering the microprocessor, component 16, can be somewhat challenging because of its numerous small pins that are closely spaced. Utilizing a __magnifying__ scope may enhance the precision of your soldering work.
 
