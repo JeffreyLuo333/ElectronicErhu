@@ -84,7 +84,7 @@ With some practice, I am confident that you will quickly discover the joy of pla
 
 https://github.com/JeffreyLuo333/ElectronicErhu/assets/114297879/c262f2a7-2b90-4fbd-84d1-cd86bc75b108
 
-## 5. Sequel - A Programmable Electronic Wind Instrument
+## 5. Sequel - a Programmable Electronic Wind Instrument
 
 <img src="images/eda_pipe_back.png" width="500" height="300"> <img src="images/Flute_back.jpg" width="500" height="300"> 
 <img src="images/eda_pipe_front.png" width="500" height="300"> <img src="images/Flute_front.jpg" width="500" height="300"> 
