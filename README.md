@@ -86,7 +86,10 @@ https://github.com/JeffreyLuo333/ElectronicErhu/assets/114297879/c262f2a7-2b90-4
 
 ## 5. Sequel - electronic wind instrument
 
-<img src="images/eda_pipe_back.png" width="500" height="300"> <img src="images/eda_pipe_front.png" width="500" height="300">
+<img src="images/eda_pipe_back.png" width="500" height="300"> <img src="images/Flute_back.jpg" width="500" height="300"> 
+<img src="images/eda_pipe_front.png" width="500" height="300"> <img src="images/Flute_front.jpg" width="500" height="300"> 
+
+<img src="images/Flute_total.jpg" width="700" height="400"> 
 
 ## 6. Additional resources
 Here are the links for additional materials:
