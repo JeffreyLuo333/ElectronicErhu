@@ -18,7 +18,7 @@ The physical bow control lays the foundation for robotic arm manipulation, setti
 ## 3. Project details 
 This section provides a detailed, step-by-step guide to constructing an electronic Erhu, outlining the entire process from start to finish.
 
-This project is inspried by a [DIY e-Erhu project](https://www.bilibili.com/read/cv12730013/). The microprocessor ESP32 utilized in the initial project has reached its end-of-life (EOL), necessitating updates to the circuit design to accommodate a new version of the processor [ESP32-S](https://docs.ai-thinker.com/en/esp32). Furthermore, the software requires further refinement to produce MIDI outputs that more accurately reflect critical musical elements, including pitch, timbre, dynamics, and note articulation.
+This project is inspried by a [DIY e-Erhu](https://www.bilibili.com/read/cv12730013/) project. The microprocessor ESP32 utilized in the initial project has reached its end-of-life (EOL), necessitating updates to the circuit design to accommodate a new version of the processor [ESP32-S](https://docs.ai-thinker.com/en/esp32). Furthermore, the software requires further refinement to produce MIDI outputs that more accurately reflect critical musical elements, including pitch, timbre, dynamics, and note articulation.
 
 ### 3.1 Architecture
 
