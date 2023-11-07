@@ -24,7 +24,7 @@ This project is inspried by a [DIY e-Erhu project](https://www.bilibili.com/read
 
 At a high level, the electronic Erhu captures the analog signals resulting from the physical movements of the bow and the keys. An EC11 encoder subsequently converts these analog signals into digital form. These digital signals are then processed by the ESP32-S microprocessor. Software within this microprocessor is responsible for creating the MIDI sequence and transmitting the sequence to the GarageBand application on an iPhone via Bluetooth. GarageBand ultimately sythesizes the musical output.
 
-<img src="images/SystemView1.png" width="400" height="300"> <img src="images/SystemView0.png" width="400" height="300">
+<img src="images/SystemView1.png" width="400" height="300">  <img src="images/SystemView0.png" width="400" height="300">
 
 ### 3.2 Circuit design diagrams
 The EDA software we've selected, [LC EDA](https://lceda.cn/), is an online platform that offers comprehensive functionality for PCB design at no cost. Additionally, it is integrated with an online marketplace for procuring PCBs and components, which is the primary reason for our decision to opt for this particular tool. 
@@ -69,7 +69,7 @@ It is important to note that the standard EC11 encoder generates an audible clic
 ### 3.4 Firmware
 Based on the [Original Source Code](https://github.com/ospanic/eerhu), we refined specific segments of the codebase to generate MIDI outputs that more accurately reflect critical musical elements, including pitch, timbre, dynamics, and note articulation. You can find the source code under the "eerhu" folder. 
 
-Eerhu_V0.1.bin is a precompiled target image that can be downloaded to the target board using the [ESP32 Download Tool](https://www.espressif.com/en/support/download/other-tools?keys=&field_type_tid%5B%5D=13).
+Eerhu_V0.2.bin in the binary folder is a precompiled target image that can be downloaded to the target board using the [ESP32 Download Tool](https://www.espressif.com/en/support/download/other-tools?keys=&field_type_tid%5B%5D=13).
 
 <img src="images/downloading_firmware_tool.png" width="500" height="300">
 
