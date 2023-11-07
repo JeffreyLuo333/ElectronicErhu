@@ -67,7 +67,7 @@ Soldering the microprocessor, component 16, can be somewhat challenging because 
 It is important to note that the standard EC11 encoder generates an audible clicking noise and tactile vibrations upon rotation. To address this issue, the encoder must be carefully disassembled with the correct tools, and its internal components meticulously dismantled in sequence. Identify the central spring element and employ tweezers to gently compress these dual spring parts. Following this adjustment, reassemble the components in their precise order and securely reseal the encoder. Eliminating this spring effectively improves the encoder's rotational fluidity.
 
 ### 3.4 Firmware
-Based on the [Original Source Code](https://github.com/ospanic/eerhu), we refined specific segments of the codebase to generate MIDI outputs that more accurately reflect critical musical elements, including pitch, timbre, dynamics, and note articulation. You can find the source code under the "eerhu" folder. 
+Based on the [original source code](https://github.com/ospanic/eerhu), we refined specific segments of the codebase to generate MIDI outputs that more accurately reflect critical musical elements, including pitch, timbre, dynamics, and note articulation. You can find the source code under the "eerhu" folder. 
 
 Eerhu_V0.2.bin in the binary folder is a precompiled target image that can be downloaded to the target board using the [ESP32 Download Tool](https://www.espressif.com/en/support/download/other-tools?keys=&field_type_tid%5B%5D=13).
 
