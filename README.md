@@ -80,18 +80,18 @@ To connect your electronic erhu, open the GarageBand app on your iPhone, then ta
 
 With some practice, I am confident that you will quickly discover the joy of playing the electronic Erhu.
 
-## 4. Demo of e-Erhu in action
+## 4. Demo of e-Erhu in Action
 
 https://github.com/JeffreyLuo333/ElectronicErhu/assets/114297879/c262f2a7-2b90-4fbd-84d1-cd86bc75b108
 
-## 5. Sequel - electronic wind instrument
+## 5. Sequel - A Programmable Electronic Wind Instrument
 
 <img src="images/eda_pipe_back.png" width="500" height="300"> <img src="images/Flute_back.jpg" width="500" height="300"> 
 <img src="images/eda_pipe_front.png" width="500" height="300"> <img src="images/Flute_front.jpg" width="500" height="300"> 
 
 <img src="images/Flute_total.jpg" width="700" height="400"> 
 
-## 6. Additional resources
+## 6. Additional Resources
 Here are the links for additional materials:
 - [Knowhow for soldering tiny components](https://www.bilibili.com/video/BV1T94y1D76n/?vd_source=e28f404c31d2a580b2bf5ef9bb423407)
 - [Circuit Board Design & Process](https://lceda.cn/editor) for modifying the PCB design.
