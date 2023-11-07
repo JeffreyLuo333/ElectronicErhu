@@ -1,4 +1,4 @@
-# Electronic Erhu
+# Electronic Erhu Instrument
 <img src="images/FrontView.jpg" width="400" height="300"> <img src="images/BackView.jpg" width="400" height="300">
 
 ## 1. Project context
