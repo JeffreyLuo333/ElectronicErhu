@@ -84,7 +84,7 @@ With some practice, I am confident that you will quickly discover the joy of pla
 
 https://github.com/JeffreyLuo333/ElectronicErhu/assets/114297879/c262f2a7-2b90-4fbd-84d1-cd86bc75b108
 
-## 5. Sequel - electronic pipe instrument
+## 5. Sequel - electronic wind instrument
 
 <img src="images/eda_pipe_back.png" width="500" height="300"> <img src="images/eda_pipe_front.png" width="500" height="300">
 
