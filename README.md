@@ -11,7 +11,7 @@ This ultimate goal is not just about technical synchronization but capturing the
 This repository contains files and guidelines associated with this project. Please feel free to utilize them.
 
 ## 2. Project objective
-We've built an electronic version of the Chinese string instrument Erhu which utilizes a __`physical bow`__ as an input mechanism. This device produces MIDI signals as its output. These signals are then transmitted wirelessly using Bluetooth to a Digital Audio Workstation (DAW) for further editing, mixing, and synthesis.
+Our goal is to build an electronic version of the Chinese string instrument Erhu which utilizes a __`physical bow`__ as an input mechanism. This device produces MIDI signals as its output. These signals are then transmitted wirelessly using Bluetooth to a Digital Audio Workstation (DAW) for further editing, mixing, and synthesis.
 
 The physical bow control lays the foundation for robotic arm manipulation, setting the stage for an investigation into how autonomous musical machines can __`observe and assimilate`__ the __`nuances of human performers`__, encompassing both their __`physical movements and emotional expressions`__. This venture seeks to transcend mere technical precision, infusing machine performance with __`a personalized touch`__.
 
