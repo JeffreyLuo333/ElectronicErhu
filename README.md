@@ -1,7 +1,7 @@
 # Electronic Erhu Instrument
 <img src="images/FrontView.jpg" width="400" height="300"> <img src="images/BackView.jpg" width="400" height="300">
 
-## 1. Project context
+## 1. Project context (why)
 In a futuristic orchestra, how can autonomous musical machines convey the __`nuances and emotions`__ inherent in human performance, instead of yielding uniform sounds that lack a personal touch?? How can such musical machines harmoniously __`accompany human musicians`__ and evoke authentic __`emotional connections`__ with audiences, avoiding perceptions of __`cold technological showmanship`__?
 
 Our exploration into the technologies for a __`human-machine orchestra`__ begins with a foundational step: crafting an electronic instrument that is programmable so that it can be __`trained for nuanced performance`__. This instrument will lay the groundwork for future exploration into advanced autonomous control within our forthcoming projects.
@@ -10,12 +10,12 @@ This ultimate goal is not just about technical synchronization but capturing the
 
 This repository contains files and guidelines associated with this project. Please feel free to utilize them.
 
-## 2. Project objective
+## 2. Project objective (what)
 Our goal is to build an electronic version of the Chinese string instrument Erhu which utilizes a __`physical bow`__ as an input mechanism. This device produces MIDI signals as its output. These signals are then transmitted wirelessly using Bluetooth to a Digital Audio Workstation (DAW) for further editing, mixing, and synthesis.
 
 The physical bow control lays the foundation for robotic arm manipulation, setting the stage for an investigation into how autonomous musical machines can __`observe and assimilate`__ the __`nuances of human performers`__, encompassing both their __`physical movements and emotional expressions`__. This venture seeks to transcend mere technical precision, infusing machine performance with __`a personalized touch`__.
 
-## 3. Project details 
+## 3. Project details (how)
 This section provides a detailed, step-by-step guide to constructing an electronic Erhu, outlining the entire process from start to finish.
 
 This project is inspried by a [DIY e-Erhu](https://www.bilibili.com/read/cv12730013/) project. The microprocessor ESP32 utilized in the initial project has reached its end-of-life (EOL), necessitating updates to the circuit design to accommodate a new version of the processor [ESP32-S](https://docs.ai-thinker.com/en/esp32). Furthermore, the software requires further refinement to produce MIDI outputs that more accurately reflect critical musical elements, including pitch, timbre, dynamics, and note articulation.
@@ -80,11 +80,11 @@ To connect your electronic erhu, open the GarageBand app on your iPhone, then ta
 
 With some practice, I am confident that you will quickly discover the joy of playing the electronic Erhu.
 
-## 4. Demo of e-Erhu in Action
+## 4. Demo of e-Erhu in action
 
 https://github.com/JeffreyLuo333/ElectronicErhu/assets/114297879/c262f2a7-2b90-4fbd-84d1-cd86bc75b108
 
-## 5. Sequel - a Programmable Electronic Wind Instrument
+## 5. Sequel - a programmable electronic wind instrument
 We are in the process of building an electronic wind instrument generating MIDI digital output, controlled by airflow, as a sequel to this electronic Erhu instrument hardware project.
 
 <img src="images/eda_pipe_back.png" width="500" height="300"> <img src="images/Flute_back.jpg" width="500" height="300"> 
@@ -92,7 +92,7 @@ We are in the process of building an electronic wind instrument generating MIDI 
 
 <img src="images/Flute_total.jpg" width="700" height="400"> 
 
-## 6. Additional Resources
+## 6. Additional resources
 Here are the links for additional materials:
 - [Knowhow for soldering tiny components](https://www.bilibili.com/video/BV1T94y1D76n/?vd_source=e28f404c31d2a580b2bf5ef9bb423407)
 - [Circuit Board Design & Process](https://lceda.cn/editor) for modifying the PCB design.
