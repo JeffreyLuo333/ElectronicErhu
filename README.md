@@ -81,6 +81,7 @@ To connect your electronic erhu, open the GarageBand app on your iPhone, then ta
 With some practice, I am confident that you will quickly discover the joy of playing the electronic Erhu.
 
 ## 4. Demo of e-Erhu in action
+Watch the demo:
 
 <!-- https://github.com/JeffreyLuo333/ElectronicErhu/assets/114297879/c262f2a7-2b90-4fbd-84d1-cd86bc75b108 -->
 
