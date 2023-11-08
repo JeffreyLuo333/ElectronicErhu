@@ -1,7 +1,7 @@
 # Electronic Erhu Instrument
 <img src="images/FrontView.jpg" width="400" height="300"> <img src="images/BackView.jpg" width="400" height="300">
 
-## 1. Project context (why)
+## 1. Project context
 In a futuristic orchestra, how can autonomous musical machines convey the __`nuances and emotions`__ inherent in human performance, instead of yielding uniform sounds that lack a personal touch?? How can such musical machines harmoniously __`accompany human musicians`__ and evoke authentic __`emotional connections`__ with audiences, avoiding perceptions of __`cold technological showmanship`__?
 
 Our exploration into the technologies for a __`human-machine orchestra`__ begins with a foundational step: crafting an electronic instrument that is programmable so that it can be __`trained for nuanced performance`__. This instrument will lay the groundwork for future exploration into advanced autonomous control within our forthcoming projects.
@@ -10,12 +10,12 @@ This ultimate goal is not just about technical synchronization but capturing the
 
 This repository contains files and guidelines associated with this project. Please feel free to utilize them.
 
-## 2. Project objective (what)
+## 2. Project objective
 Our goal is to build an electronic version of the Chinese string instrument Erhu which utilizes a __`physical bow`__ as an input mechanism. This device produces MIDI signals as its output. These signals are then transmitted wirelessly using Bluetooth to a Digital Audio Workstation (DAW) for further editing, mixing, and synthesis.
 
 The physical bow control lays the foundation for robotic arm manipulation, setting the stage for an investigation into how autonomous musical machines can __`observe and assimilate`__ the __`nuances of human performers`__, encompassing both their __`physical movements and emotional expressions`__. This venture seeks to transcend mere technical precision, infusing machine performance with __`a personalized touch`__.
 
-## 3. Project details (how)
+## 3. Project details
 This section provides a detailed, step-by-step guide to constructing an electronic Erhu, outlining the entire process from start to finish.
 
 This project is inspried by a [DIY e-Erhu](https://www.bilibili.com/read/cv12730013/) project. The microprocessor ESP32 utilized in the initial project has reached its end-of-life (EOL), necessitating updates to the circuit design to accommodate a new version of the processor [ESP32-S](https://docs.ai-thinker.com/en/esp32). Furthermore, the software requires further refinement to produce MIDI outputs that more accurately reflect critical musical elements, including pitch, timbre, dynamics, and note articulation.
