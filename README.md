@@ -82,6 +82,7 @@ With some practice, I am confident that you will quickly discover the joy of pla
 
 ## 4. Demo of e-Erhu in action
 Here is our trio team:-)
+
 <img src="images/EErhuTeam_02.png" width="500" height="300">
 
 Watch the demo by clicking on the image below.
