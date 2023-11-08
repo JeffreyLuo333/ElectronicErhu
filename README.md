@@ -82,9 +82,9 @@ With some practice, I am confident that you will quickly discover the joy of pla
 
 ## 4. Demo of e-Erhu in action
 
-https://github.com/JeffreyLuo333/ElectronicErhu/assets/114297879/c262f2a7-2b90-4fbd-84d1-cd86bc75b108
+<!-- https://github.com/JeffreyLuo333/ElectronicErhu/assets/114297879/c262f2a7-2b90-4fbd-84d1-cd86bc75b108 -->
 
-[![Watch the demo](images/BOM_full_picture.jpg)](https://youtu.be/FXZ9KL9N5Sc)
+[![Watch the demo](images/EErhuTeam.jpeg)](https://youtu.be/CmPyaTLayI8)
 
 ## 5. Sequel - a programmable electronic wind instrument
 We are in the process of building an electronic wind instrument generating MIDI digital output, controlled by airflow, as a sequel to this electronic Erhu instrument hardware project.
