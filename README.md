@@ -1,6 +1,8 @@
 # Programmable Electronic Erhu Instrument
 <img src="images/FrontView.jpg" width="400" height="300"> <img src="images/BackView.jpg" width="400" height="300">
 
+Links to all my other __`music technology projects`__ (electronic instruments, AI-powered music signal processing software etc.) are at [http://jeffreyluo.com/#mt](http://jeffreyluo.com/#mt).
+
 ## 1. Project context
 In a futuristic orchestra, how can autonomous musical machines convey the __`nuances and emotions`__ inherent in human performance, instead of yielding uniform sounds that lack a personal touch? How can such musical machines harmoniously __`accompany human musicians`__ and evoke authentic __`emotional connections`__ with audiences, avoiding perceptions of __`cold technological showmanship`__?
 
@@ -110,6 +112,5 @@ Here are the links for additional materials:
 
 Best of luck! Should you run into any issues, please feel free to contact us at jeffrey.luo333@gmail.com
 
-
-
+Links to all my other __`music technology projects`__ (electronic instruments, AI-powered music signal processing software etc.) are at [http://jeffreyluo.com/#mt](http://jeffreyluo.com/#mt).
 
