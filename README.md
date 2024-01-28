@@ -24,7 +24,7 @@ This project is inspried by a [DIY e-Erhu](https://www.bilibili.com/read/cv12730
 
 ### 3.1 Architecture
 
-At a high level, the electronic Erhu captures the analog signals resulting from the physical movements of the bow and the keys. An EC11 encoder subsequently converts these analog signals into digital form. These digital signals are then processed by the ESP32-S microprocessor. Software within this microprocessor is responsible for creating the MIDI sequence and transmitting the sequence to the GarageBand application on an iPhone via Bluetooth. GarageBand ultimately sythesizes the musical output.
+At a high level, the electronic Erhu captures the analog signals resulting from the physical movements of the bow and the keys. An EC11 encoder subsequently converts these analog signals into digital form. These digital signals are then processed by the ESP32-S microprocessor. Software within this microprocessor is responsible for creating the MIDI sequence and transmitting the sequence to the GarageBand application on an iPhone via Bluetooth. GarageBand ultimately synthesizes the musical output.
 
 <img src="images/SystemView1.png" width="400" height="300">  <img src="images/SystemView0.png" width="400" height="300">
 
